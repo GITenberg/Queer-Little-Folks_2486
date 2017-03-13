@@ -1,5 +1,8 @@
 _repo: Queer-Little-Folks_2486
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 2486-h/images/coverb.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2486#Queer-Little-Folks
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
 identifiers:
