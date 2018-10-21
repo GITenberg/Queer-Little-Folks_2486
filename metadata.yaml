@@ -1,5 +1,5 @@
 _repo: Queer-Little-Folks_2486
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2486-h/images/coverb.jpg
@@ -31,6 +31,7 @@ subjects:
 - !lcsh 'Animals -- Anecdotes'
 - !lcc 'PZ'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: Hen that hatched ducks -- The Nutcrackers of Nutcracker Lodge --
   The history of Tip-Top -- Miss Katy-Did and Miss Cricket -- Mother Magpie's mischief
   -- The squirrels that live in a house -- Hum, the son of Buz -- Our country neighbours
